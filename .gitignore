@@ -1,0 +1,11 @@
+# OS & Editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*~
+
+# Build & Mod binaries (distributed via GitHub Releases)
+*.pak
+*.zip
+*.tar.gz

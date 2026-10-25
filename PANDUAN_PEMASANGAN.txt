@@ -1,0 +1,41 @@
+========================================================================
+MOD LOKALISASI BAHASA INDONESIA: CLIVE BARKER'S HELLRAISER: REVIVAL
+Versi: v1.0 (Full Story, Barks & Lore Release - Tamat 100%)
+Diterjemahkan & Dikembangkan oleh: Divisi Modding & Lokalisasi Milky Brain
+========================================================================
+
+DESKRIPSI:
+Mod ini menerjemahkan seluruh dialog cerita (cutscene & in-game), ambient barks musuh, 
+interkom, seluruh bab catatan okultis (Lore Notes), kaset rekaman, inskripsi teka-teki, 
+serta deskripsi senjata & tutorial ke dalam Bahasa Indonesia yang alami, hidup, 
+dan peka konteks horor psikologis Clive Barker.
+
+KEBIJAKAN BAHASA:
+- Dialog Cerita, Barks, Lore, Deskripsi Item & Tutorial -> BAHASA INDONESIA (Alami & Berkarakter)
+- Menu Utama, Pengaturan Grafis/Audio & Nama Senjata/Item -> ORIGINAL BAHASA INGGRIS (Menjaga familiaritas)
+
+========================================================================
+PETUNJUK CARA PASANG (SANGAT MUDAH - TINGGAL TIMPA):
+========================================================================
+1. Buka folder instalasi game kamu di Steam:
+   Klik kanan game Clive Barker's Hellraiser: Revival di Steam -> Kelola (Manage) -> Telusuri File Lokal (Browse local files).
+   (Contoh path: SteamLibrary/steamapps/common/Clive Barker's Hellraiser - Revival/)
+
+2. (Disarankan) Masuk ke folder:
+   Hellraiser/Content/Paks/
+   Lalu buat salinan cadangan (backup) file asli 'pakchunk0-Windows.pak' menjadi 'pakchunk0-Windows.pak.orig.bak'.
+
+3. Salin (copy) folder 'Hellraiser' dari dalam folder 'TIMPA_KE_FOLDER_GAME' pada mod ini, 
+   lalu tempel (paste/replace) langsung ke dalam folder instalasi game kamu.
+   Pilih 'Replace / Timpa file yang sudah ada'.
+
+4. Jalankan game seperti biasa! Subtitle dialog dan catatan lore otomatis berbahasa Indonesia.
+
+========================================================================
+CARA UNINSTALL (KEMBALI KE ASLI):
+========================================================================
+- Kembalikan nama file cadangan kamu 'pakchunk0-Windows.pak.orig.bak' menjadi 'pakchunk0-Windows.pak', ATAU
+- Di Steam: Klik kanan game -> Properties -> Installed Files -> Verify integrity of game files.
+
+Salam horor transendental,
+Milky Brain Modding Division

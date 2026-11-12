@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Platform-PC%20Steam%20%7C%20Steam%20Deck-blue?style=for-the-badge" alt="Platform">
   <img src="https://img.shields.io/badge/Engine-Unreal%20Engine%20IoStore%20V11-darkred?style=for-the-badge" alt="Engine">
   <img src="https://img.shields.io/badge/Status-Verified%20In--Game-success?style=for-the-badge" alt="Status">
+  <a href="https://trakteer.id/milkyponi"><img src="https://img.shields.io/badge/Donate-Trakteer%20Milky%20Poni-be1e2d?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Donate via Trakteer"></a>
 </p>
 
 ---
@@ -96,3 +97,17 @@ Jika ingin kembali ke bahasa bawaan:
 
 ---
 *Catatan: Modifikasi ini adalah proyek lokalisasi komunitas non-komersial yang ditujukan untuk mempermudah pemain Indonesia memahami alur cerita dan kekayaan narasi Clive Barker's Hellraiser: Revival.*
+
+---
+
+## ☕ Dukung Proyek Ini (Donate)
+
+Jika mod lokalisasi Bahasa Indonesia ini bermanfaat bagi pengalaman bermain Anda, Anda dapat memberikan dukungan pengembangan kepada **Milky Poni** melalui Trakteer:
+
+<p align="center">
+  <a href="https://trakteer.id/milkyponi">
+    <img src="https://img.shields.io/badge/%E2%98%95%20Donate-Dukung%20di%20Trakteer%20(Milky%20Poni)-be1e2d?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Donate via Trakteer" height="40">
+  </a>
+</p>
+
+- **Link Trakteer**: [https://trakteer.id/milkyponi](https://trakteer.id/milkyponi)
